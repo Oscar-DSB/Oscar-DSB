@@ -33,6 +33,7 @@ language classifier to an automated warehouse simulation on a PLC.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Siemens TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=flat-square&logo=siemens&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Bug_Bounty-2d2d2d?style=flat-square&logo=hackthebox&logoColor=white)
 
 ### 🚀 Featured projects
 
