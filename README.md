@@ -16,7 +16,8 @@
 Engineering student specializing in Connected Industry 4.0, with a strong foundation in
 artificial intelligence, computer vision, robotics and automation. I like building things
 that turn a research idea into something that actually runs — from a real-time sign
-language classifier to an automated warehouse simulation on a PLC.
+language classifier to an automated warehouse simulation on a PLC. I work daily with
+AI-assisted development tools (Claude Code among them) to design, build and ship faster.
 
 ### 🛠️ Tech stack
 
@@ -34,6 +35,8 @@ language classifier to an automated warehouse simulation on a PLC.
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Siemens TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=flat-square&logo=siemens&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Bug_Bounty-2d2d2d?style=flat-square&logo=hackthebox&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-6C5CE7?style=flat-square)
 
 ### 🚀 Featured projects
 
