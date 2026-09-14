@@ -1,17 +1,19 @@
 <div align="center">
 
-# Hi, I'm Oscar de Simone Benito 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:538AB7&height=200&section=header&text=Oscar%20de%20Simone&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Engineering%20Student%20in%20Connected%20Industry%204.0&descAlignY=62&descSize=18" width="100%"/>
 
-### Engineering Student in Connected Industry 4.0 · Software Development, AI & Industrial Automation
+<img src="assets/profile.png" width="140" style="border-radius:50%" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=538AB7&center=true&vCenter=true&width=600&lines=Software+Development+%26+AI;Computer+Vision+%26+Robotics;Industrial+Automation+(PLC%2FTIA);Ethical+Hacking+%26+Bug+Bounty)](https://git.io/typing-svg)
 
 📍 Madrid, Spain &nbsp;·&nbsp; 🎓 UFV, Connected Industry Engineering (4th year)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-de-simone-benito)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oscardsb22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-de-simone-benito)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscardsb22@gmail.com)
 
 </div>
-
----
 
 ### About me
 
@@ -53,9 +55,8 @@ and do independent security research (ethical hacking / bug bounty on Intigriti)
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Oscar-DSB&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-DSB&layout=compact&hide_border=true" />
 </div>
-
----
-
 <div align="center">
-<sub>Full CV & more projects on <a href="https://www.linkedin.com/in/oscar-de-simone-benito">LinkedIn</a></sub>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Oscar-DSB&hide_border=true" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:538AB7,100:1e3c72&height=100&section=footer" width="100%"/>
