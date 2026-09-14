@@ -45,6 +45,8 @@ AI-assisted development tools (Claude Code among them) to design, build and ship
 | [**LSE Vision**](https://github.com/Oscar-DSB/lse-vision-artificial) | Real-time recognition of the Spanish Sign Language (LSE) alphabet from a webcam — MediaPipe hand landmarks + hybrid MLP/MobileNetV2 classifier, **90.98% test accuracy**. |
 | [**Sports News**](https://github.com/Oscar-DSB/sports-news) | Django web app for sports results, schedules and standings, with a dedicated Formula 1 section and user authentication. |
 | [**Pokedex API**](https://github.com/Oscar-DSB/pokedex-api) | REST API built with FastAPI and SQLModel, following industry-standard API design practices. |
+| [**Gmail Monitor**](https://github.com/Oscar-DSB/gmail-important-alerts) | Reads new Gmail messages, scores them with Gemini, and pings Telegram only for the ones that actually matter. |
+| [**Mi Registro de Vida**](https://github.com/Oscar-DSB/mi-registro-vida-writeup) | Voice-first personal diary (Next.js/Supabase) — transcribed entries, map of visited places, stats dashboard. Explored, not continued *(write-up only)*. |
 
 I've also worked on an automated-warehouse simulation (Siemens TIA Portal + Factory I/O),
 and do independent security research (ethical hacking / bug bounty on Intigriti).
